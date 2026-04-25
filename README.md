@@ -24,10 +24,3 @@ As a core engineering standard, this project is strictly built on **Privacy-Firs
 - **Modern UI:** Built with `CustomTkinter` for a responsive, user-friendly, and fatigue-free dark mode interface.
 
 ---
-
-### 💻 Developer Installation (Build from Source)
-For developers and security researchers who wish to compile or audit the code locally:
-
-1. Clone the repository:
-```bash
-git clone [https://github.com/VolkanYildirim/VY-MediaDownloader.git](https://github.com/VolkanYildirim/VY-MediaDownloader.git)
